@@ -276,3 +276,7 @@ footer {
         height: 48px;
     }
 }
+
+.resume-download {
+    margin-top: 20px; /* or any value you prefer */
+}
